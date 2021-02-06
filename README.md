@@ -15,13 +15,13 @@ Right arrow key : to move catcher right
   random
 
 ### Getting Started
-  Software Requirements: Python
-  Clone the repo to your local device
-  Run the .exe file
+- Software Requirements: Python
+- Clone the repo to your local device
+- Run the .exe file
 
 < To create your own download python and getstarted.
 
 ### Installation
-  Clone the repo
+- Clone the repo
 
 git clone https://github.com/rituvermaCS/Eggy-Bowl
