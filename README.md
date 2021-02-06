@@ -9,10 +9,10 @@ Left arrow key : to move catcher left
 Right arrow key : to move catcher right
 
 ### Built With
-  Python
-  tkinter
-  itertools
-  random
+- Python
+- tkinter
+- itertools
+- random
 
 ### Getting Started
 - Software Requirements: Python
