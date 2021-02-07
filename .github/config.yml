@@ -1,0 +1,17 @@
+## References:
+# https://github.com/behaviorbot/
+# https://probot.github.io/apps/welcome/
+
+## Used the default messages here, feel free to customize
+
+# First Issues
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here! Be sure to follow the issue template!
+
+# First PRs
+newPRWelcomeComment: >
+  Thanks for opening this pull request! Please check out our contributing guidelines.
+
+# First PR merges
+firstPRMergeComment: >
+  Congrats on merging your first pull request! We here at Eggie-Bowl are proud of you!
