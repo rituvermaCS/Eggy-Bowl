@@ -12,3 +12,5 @@ If player catches the ball onto the bar then score will get increase and that ba
 from top to bottom starting from random x-axis distance.
 
 If player miss the ball from catching it on the bar then you will lose the game and then finally scorecard will appear on the game window.
+
+output is attached as geeks mp4 video.
