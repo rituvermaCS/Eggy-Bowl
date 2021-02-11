@@ -86,5 +86,9 @@ Assuming you have already starred the repository, let's move ahead to get a copy
 
     Go to your forked repository on Github and click on compare changes. If there are no issues, you will be able to raise a PR successfully! After raising a PR, kindly wait patiently for the maintainer to review your PR. Done!!
 
-![Yipeee](https://i.imgur.com/Gr3HxWy.gif)
-### Happy Coding🤝!!
+    <h2 style="margin: auto; text-align: center">
+      <img width="460" height="300" src="https://i.imgur.com/Gr3HxWy.gif">
+      <br><br>
+       Happy Coding🤝!!
+    </h2>
+    
