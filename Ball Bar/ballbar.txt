@@ -1,6 +1,6 @@
 # Python code for catching the ball game 
 
-# importing suitable packages 
+importing suitable packages 
 from tkinter import Tk,Button,Label 
 from tkinter import Canvas 
 from random import randint 
@@ -37,8 +37,7 @@ class Ball:
 		self.canvas = canvas 
 		
 		# for creation of ball object 
-		self.ball = canvas.create_oval(self.x1, self.y1, self.x2, self.y2, 
-												fill = "red",tags = 'dot1') 
+		self.ball = canvas.create_oval(self.x1, self.y1, self.x2, self.y2,fill = "red",tags = 'dot1') 
 	
 	# for moving the ball 
 	def move_ball(self): 
