@@ -96,8 +96,7 @@ class bar:
 		self.canvas = canvas 
 		
 		# for creating bar using create_rectangle 
-		self.rod=canvas.create_rectangle(self.x1, self.y1, self.x2, self.y2, 
-												fill="yellow",tags='dot2') 
+		self.rod=canvas.create_rectangle(self.x1, self.y1, self.x2, self.y2, fill="yellow",tags='dot2') 
 	
 	# method for moving the bar 
 	def move_bar(self,num): 
@@ -150,16 +149,13 @@ def score_board():
 	canvas2 = Canvas(root2,width=300,height=300) 
 	canvas2.pack() 
 	
-	w = Label(canvas2,text="\nOOPS...GAME IS OVER\n\nYOUR SCORE = "
-											+ str(score) + "\n\n") 
+	w = Label(canvas2,text="\nOOPS...GAME IS OVER\n\nYOUR SCORE = "+ str(score) + "\n\n") 
 	w.pack() 
 	
-	button3 = Button(canvas2, text="PLAY AGAIN", bg="green", 
-						command=lambda:play_again(root2)) 
+	button3 = Button(canvas2, text="PLAY AGAIN", bg="green", command=lambda:play_again(root2)) 
 	button3.pack() 
 	
-	button4 = Button(canvas2,text="EXIT",bg="green", 
-					command=lambda:exit_handler(root2)) 
+	button4 = Button(canvas2,text="EXIT",bg="green", command=lambda:exit_handler(root2)) 
 	button4.pack() 
 
 # Function for handling the play again request 
@@ -184,14 +180,12 @@ def main():
 	# defining the text,colour of buttons and 
 	# also define the action after click on 
 	# the button by calling suitable methods 
-	button = Button(canvas,text="==>", bg="green", 
-					command=lambda:bar1.move_bar(1)) 
+	button = Button(canvas,text="==>", bg="green", command=lambda:bar1.move_bar(1)) 
 					
 	# placing the buttons at suitable location on the canvas 
 	button.place(x=300,y=580) 
 	
-	button2 = Button(canvas,text="<==",bg="green", 
-					command=lambda:bar1.move_bar(0)) 
+	button2 = Button(canvas,text="<==",bg="green", command=lambda:bar1.move_bar(0)) 
 	button2.place(x=260,y=580) 
 	
 	# calling the function for defining 
