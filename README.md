@@ -89,6 +89,80 @@ Assuming you have already starred the repository, let's move ahead to get a copy
     <h2 style="margin: auto; text-align: center">
       <img width="460" height="300" src="https://i.imgur.com/Gr3HxWy.gif">
       <br><br>
-       Happy Coding🤝!!
-    </h2>
     
+    ## Contributors 🌟 
+
+Thanks goes to these wonderful people ✨✨:
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/rituvermaCS">
+				<img src="https://avatars.githubusercontent.com/u/55533836?s=460&u=b26b92a25e16b677fbc2e8792de446220924f91b&v=4" width="100px" alt="" />
+				<br /> <sub><b>RITU VERMA</b></sub>
+			</a>
+			<br/> <a href="https://github.com/rituvermaCS/Eggy-Bowl//commits?author=rituvermaCS">
+                👑 👀 💬 Author
+            </a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/himanshu007-creator">
+				<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGuu_KB9L_j0Q/profile-displayphoto-shrink_400_400/0/1611829258295?e=1619049600&v=beta&t=YE8NLonMqdwjNUt-Bd34rlcOMsX3f7O7cUDVXirIHps"width="100px" alt="" />
+                <br /> <sub><b>HIMANSHU</b>
+			</a>
+			<br/> <a href="https://github.com/rituvermaCS/Eggy-Bowl//commits?author=himanshu007-creator">
+                 💻
+            </a>
+		</td>
+            <td align="center">
+			<a href="https://github.com/nitya123-github">
+				<img src="https://avatars.githubusercontent.com/u/53599318?s=460&u=08af1b08c9e818a1705ba60aa2c59c3497868db0&v=4"width="100px" alt="" />
+                <br /> <sub><b>NITYA</b>
+			</a>
+			<br/> <a href="https://github.com/rituvermaCS/Eggy-Bowl//commits?author=nitya123-github">
+                 💻
+            </a>
+		</td>
+                </td>
+            <td align="center">
+			<a href="https://github.com/muthuannamalai12">
+				<img src="https://avatars.githubusercontent.com/u/64524822?s=460&u=c1f8f317ca1eb1340f411b69b3b7c85446303ae5&v=4"width="100px" alt="" />
+                <br /> <sub><b>Muthu Annamalai.V</b>
+			</a>
+			<br/> <a href="https://github.com/rituvermaCS/Eggy-Bowl//commits?author=muthuannamalai12">
+                 💻
+            </a>
+		</td>
+                </td>
+            <td align="center">
+			<a href="https://github.com/Dhriti-Roy">
+				<img src="https://avatars.githubusercontent.com/u/74097309?s=460&u=e9ec52ca2533af3a1060dc55151b07bf6daa3bf3&v=4"width="100px" alt="" />
+                <br /> <sub><b>Dhriti Roy</b>
+			</a>
+			<br/> <a href="https://github.com/rituvermaCS/Eggy-Bowl//commits?author=Dhriti-Roy">
+                 💻
+            </a>
+		</td>
+                   <td align="center">
+			<a href="https://github.com/vismitap">
+				<img src="https://avatars.githubusercontent.com/u/47056243?s=400&u=e97809e099df71689f0a0fe18a51f9db07c383d3&v=4"width="100px" alt="" />
+                <br /> <sub><b>vismitap</b>
+			</a>
+			<br/> <a href="https://github.com/rituvermaCS/Eggy-Bowl//commits?author=vismitap">
+                 💻
+            </a>
+		</td>
+                            <td align="center">
+			<a href="https://github.com/Akshu-on-github">
+				<img src="https://avatars.githubusercontent.com/u/61582763?s=460&u=016894455dd1669c3a0fceff1c049cb66f50b4b0&v=4"width="100px" alt="" />
+                <br /> <sub><b>AKSHU</b>
+			</a>
+			<br/> <a href="https://github.com/rituvermaCS/Eggy-Bowl//commits?Akshu-on-github">
+                 💻
+            </a>
+		</td>
+		
+	
+</table>
+
+## Happy Coding🤝!!
+![Eggy-bowl](assets/footer.gif)
