@@ -26,7 +26,7 @@ Head over to [this python notebook](https://github.com/rituvermaCS/Eggy-Bowl/blo
 
 ## Requirements 💻🔧
 You need to have Python already installed on your computer. 
-If you do not have Python already, head over to [the official python site](https://www.python.org/) and download the latest version.
+If you do not have Python installed already, head over to [the official python site](https://www.python.org/) and download the latest version.
 
 ## Contributing Guidelines ✍️
 Before moving to further steps, make sure you read our [Contributing Guidelines](https://github.com/rituvermaCS/Eggy-Bowl/blob/main/CONTRIBUTING.md).
